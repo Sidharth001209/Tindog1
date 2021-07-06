@@ -1,0 +1,137 @@
+*{
+    font-family: "Montserrat-Black";
+}
+
+
+#title {
+   background-color: #ff4c68;
+   color:#fff;
+}
+#title .row h1{
+    font-family: "Montserrat-Black";
+    size:3.5rem;
+    line-height: 1.5;
+    font-weight: 700;
+}
+.container-fluid{
+    padding:3% 20%;
+    overflow: hidden;
+}
+
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size:2.5rem;
+    font-weight: bold;
+   
+    
+}
+.navbar{
+    padding-bottom: 4.5rem;
+}
+.nav-item{
+    padding: 0 18px;
+    
+}
+.nav-link,.navbar-brand{
+    color: #fff !important;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+}
+/*Button*/
+.btn{
+    margin: 5% 3% 5% 0;
+}
+.dog-image{
+    transform:rotate(25deg);
+}
+
+.feature-group{
+    padding:7% 15%;
+}
+.dog-image{
+    margin-bottom: -140px;
+}
+.icons{
+    color:#ff46c8;
+}
+.icons:hover{
+    color:red;
+}
+.icons h3{
+    font-family: "Montserrat-Bold";
+    font-weight: 700;
+}
+.icons p{
+    max-width: 5%;
+}
+.Icon{
+    text-align: center;
+    padding:5%;
+}
+
+/*testimonials*/
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef7182;
+    color:#fff;
+}
+#testimonials h2{
+    font-family: "Montserrat-Bold";
+    font-size: 3rem;
+    font-weight: 700;
+    line-height: 1;
+}
+.testimonials-img{
+    width:10%;
+    border-radius: 100%;
+    margin:20px;
+
+}
+#press{
+    background-color: #ef7182;
+    text-align: center;
+    padding-bottom: 40px;
+}
+.press-image{
+    width: 15% ;
+    margin:0 0 15px 60px;
+}
+.testimonials-btn{
+    margin-right: 140px;
+}
+#pricing{
+    padding:100px;
+}
+#pricing h3{
+    font-family: "Montserrat-Bold";
+}
+.pricing-column{
+    padding:3% 2%;
+}
+.pricing-column .card-body ,.card-header{
+    text-align: center;
+}
+#cta{
+    background-color: #ff4c68;
+    text-align: center;
+    padding:7% 15%;
+}
+#cta h3{
+    color:#fff;
+    font-family: "Montserrat-Black";
+    font-size: 3.5rem;
+    line-height: 1.5rem;
+
+}
+#footer{
+    background-color: #fff;
+    text-align: center;
+    padding:7% 15%;  
+
+}
+.footer-icons{
+    margin: 0 10px;
+}
